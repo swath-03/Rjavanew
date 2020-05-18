@@ -1,1 +1,4 @@
 this is the file in javanew dir
+added the messages from win CMD 
+in swath dir and saved 
+
